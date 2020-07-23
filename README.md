@@ -50,7 +50,8 @@ Note: we see a spike for plays with $35,000-$45,000 target. This is driven prima
 * 2017 we see a rapid decline
 
 
-## *6. Average days running*: 31 days (32 for the whole theater group)
+## *6. Average days running*: 
+31 days (32 for the whole theater group)
 
 
 # Conclusion:
