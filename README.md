@@ -25,11 +25,15 @@ From the data we have, we can make assumptions based on the:
 * winter/December are the worst
 * This trend is seen in theater overall and plays specifically
 
+! https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png
+
+
 ## *2. Goals/Donations*:
 * Smaller goal’s campaigns up to $5,000 tend to have a higher success rate
 * average successful campaign/play had a goal or $4.1K and pledged $4.5K
 * average donation for all successful campaigns was $81 per backer
 
+! https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
 
 Note: we see a spike for plays with $35,000-$45,000 target. This is driven primarily by 6 US campaigns. Average donation for these campaigns was $218 per backer.
 
@@ -38,6 +42,7 @@ Note: we see a spike for plays with $35,000-$45,000 target. This is driven prima
 * plays represent 76% of all data for theater
 * plays also have the highest success rate (83% of all successfully executed projects) and no cancellations
 
+! https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Theater_outcome_by_subcategory.png
 
 ## *4. Geolocation*:
 * 1253 projects (92% of all theater) happened in two countries – US and GB
@@ -49,9 +54,12 @@ Note: we see a spike for plays with $35,000-$45,000 target. This is driven prima
 * 2014-2016 has the most successfully executed campaigns
 * 2017 we see a rapid decline
 
+! https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Theater_outcome_by_year.png
 
 ## *6. Average days running*: 
 31 days (32 for the whole theater group)
+
+! https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Average_Days_Pledge_Goal.png
 
 
 # Conclusion:
