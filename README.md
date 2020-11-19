@@ -25,7 +25,7 @@ From the data we have, we can make assumptions based on the:
 * winter/December are the worst
 * This trend is seen in theater overall and plays specifically
 
-https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png
+![](https://github.com/jojobear2020/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
 
 ## *2. Goals/Donations*:
